@@ -1,0 +1,14 @@
+reg1:
+uses wire instead of register to store values
+
+reg2:
+shifts in opposite direction. the new digit gets added to MSB instead of LSB
+
+reg3:
+with registers  assign cannot be used. also they need to be present in procedural blocks using blocking statements.
+
+reg4:
+does not intialise the register to 0000 and changes as and when the digit is inputed
+
+
+

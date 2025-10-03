@@ -1,0 +1,9 @@
+register : old val -> new val
+
+rax : 1 -> 6
+
+rcx : 0 -> 4198427
+
+r11 : 0 -> 770
+
+rip : 0x401019 <_start+25> -> 0x40101b <_start+27>
